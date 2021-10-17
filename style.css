@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sty-header-title {
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+    color: #BFA065;
+}
+.sty-header-desc {
+    font-family: 'Open Sans', sans-serif;
+}
